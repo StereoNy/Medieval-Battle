@@ -13,3 +13,9 @@ We are using haskell language to see if functional programming has its unique ad
 
 
 In addition to some pursuits beyond programming, we also hope to seek some innovative ideas. For example, we may make slight changes to the gameplay and rules to make the game more paced and competitive, like more heros or giving them unique talents. We may also try to implement cooler explosion effects or smoother operation design to enhance the player's interaction experience.
+
+## Contributors
+Jiangjian Guo :StereoNy
+Hansong Zhang :zhs1397
+Shicheng Bei :LaurensBeYoung
+Zihao Wang :wang-zao
