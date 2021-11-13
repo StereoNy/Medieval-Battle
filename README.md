@@ -16,6 +16,9 @@ In addition to some pursuits beyond programming, we also hope to seek some innov
 
 ## Contributors
 Jiangjian Guo :StereoNy
+
 Hansong Zhang :zhs1397
+
 Shicheng Bei :LaurensBeYoung
+
 Zihao Wang :wang-zao
